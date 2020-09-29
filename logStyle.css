@@ -1,0 +1,45 @@
+hr{
+	border-top: 2px solid black;
+	width: 400px;
+}
+
+body{
+	background-color: #034580;
+}
+
+
+
+.bg2{
+	margin-left: auto;
+margin-right: auto;
+
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #29b4ff ;
+	width: 450px;
+	min-height: 350px;
+	border-radius: 5px;
+}
+.bg{
+	margin-left: auto;
+margin-right: auto;
+
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #29b4ff ;
+	width: 450px;
+	min-height: 350px;
+	border-radius: 5px;
+}
+.container{
+	transform: translate(0,100%);
+}
+
+.visible{
+	position: absolute;
+	color: black;
+	top: 50%;
+	left: 50%;
+	font-size: 50px;
+	z-index: 9999999;
+}
